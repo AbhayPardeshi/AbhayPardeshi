@@ -1,4 +1,8 @@
-<h1 align="center">Abhay Pardeshi</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&height=180&color=0:ff4d6d,100:9b5de5&text=Abhay%20Pardeshi&fontSize=60&fontColor=ffffff&fontAlignY=35"
+  />
+</p>
 <p align="center">
   Full-Stack Software Engineer • Java | JavaScript
 </p>
