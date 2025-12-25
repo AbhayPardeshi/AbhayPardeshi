@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/AbhayPardeshi">GitHub</a> •
-  <a href="https://linkedin.com/in/abhay-pardeshi-4a44b7222">LinkedIn</a>
+  <a href="https://linkedin.com/in/abhay-pardeshi-4a44b7222">LinkedIn</a> •
+  <a href="https://x.com/Abhay79339587">X(Twitter)</a>
 </p>
 
 ---
