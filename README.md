@@ -1,13 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api
-      ?type=waving
-      &height=200
-      &color=0:f72585,50:7209b7,100:00f5d4
-      &text=Abhay%20Pardeshi
-      &fontSize=62
-      &fontColor=ffffff
-      &fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=wave&height=180&color=0:ff4d6d,100:9b5de5&text=Abhay%20Pardeshi&fontSize=60&fontColor=ffffff&fontAlignY=35"
   />
 </p>
 
